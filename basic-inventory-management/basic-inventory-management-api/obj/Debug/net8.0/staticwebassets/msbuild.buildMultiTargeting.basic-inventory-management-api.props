@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\basic-inventory-management-api.props" />
+</Project>

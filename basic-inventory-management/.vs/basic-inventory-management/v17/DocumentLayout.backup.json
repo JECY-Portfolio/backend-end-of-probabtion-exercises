@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|c:\\users\\dell\\downloads\\datalinks internship programme (dip)\\eope\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|solutionrelative:basic-inventory-management-api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|c:\\users\\dell\\downloads\\datalinks internship programme (dip)\\eope\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\inventory.domain\\enums\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|solutionrelative:basic-inventory-management-api\\inventory.domain\\enums\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|c:\\users\\dell\\downloads\\datalinks internship programme (dip)\\eope\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\inventory.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|solutionrelative:basic-inventory-management-api\\inventory.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|c:\\users\\dell\\downloads\\datalinks internship programme (dip)\\eope\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\inventory.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|solutionrelative:basic-inventory-management-api\\inventory.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|c:\\users\\dell\\downloads\\datalinks internship programme (dip)\\eope\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|solutionrelative:basic-inventory-management-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|c:\\users\\dell\\downloads\\datalinks internship programme (dip)\\eope\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\inventory.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|solutionrelative:basic-inventory-management-api\\inventory.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|c:\\users\\dell\\downloads\\datalinks internship programme (dip)\\eope\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\inventory.application\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|solutionrelative:basic-inventory-management-api\\inventory.application\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|c:\\users\\dell\\downloads\\datalinks internship programme (dip)\\eope\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\inventory.application\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E1CBF5-E4FE-445E-B0F8-16865B7AE02D}|basic-inventory-management-api\\basic-inventory-management-api.csproj|solutionrelative:basic-inventory-management-api\\inventory.application\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Program.cs",
+              "RelativeDocumentMoniker": "basic-inventory-management-api\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Program.cs",
+              "RelativeToolTip": "basic-inventory-management-api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:50:34.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Inventory.Application\\DTOs\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "basic-inventory-management-api\\Inventory.Application\\DTOs\\ProductUpdateDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Inventory.Application\\DTOs\\ProductUpdateDto.cs",
+              "RelativeToolTip": "basic-inventory-management-api\\Inventory.Application\\DTOs\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:14:50.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Inventory.Application\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "basic-inventory-management-api\\Inventory.Application\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Inventory.Application\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "basic-inventory-management-api\\Inventory.Application\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:14:08.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "basic-inventory-management-api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "basic-inventory-management-api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:59:12.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Inventory.Domain\\Enums\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "basic-inventory-management-api\\Inventory.Domain\\Enums\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Inventory.Domain\\Enums\\ProductCategory.cs",
+              "RelativeToolTip": "basic-inventory-management-api\\Inventory.Domain\\Enums\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:45:19.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Inventory.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "basic-inventory-management-api\\Inventory.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Inventory.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "basic-inventory-management-api\\Inventory.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDQAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:40:12.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Inventory.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "basic-inventory-management-api\\Inventory.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Inventory.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "basic-inventory-management-api\\Inventory.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:36:38.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Inventory.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "basic-inventory-management-api\\Inventory.Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Datalinks Internship Programme (DIP)\\EOPE\\backend-end-of-probabtion-exercises\\basic-inventory-management\\basic-inventory-management-api\\Inventory.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "basic-inventory-management-api\\Inventory.Domain\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:27:00.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
