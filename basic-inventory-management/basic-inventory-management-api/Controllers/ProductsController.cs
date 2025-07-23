@@ -82,31 +82,37 @@ namespace basic_inventory_management_api.Controllers
         [HttpPut("{id:Guid}")]
         public IActionResult UpdateProduct(Guid Id, Product product)
         {
+
             var existingProduct = _productService.GetProductById(Id);
             if (existingProduct == null)
             {
-                _logger.LogInformation($"Product with ID {Id} not found");
+                _logger.LogWarning($"Product with ID {Id} not found");
                 return NotFound();
             }
 
-            _productService.UpdateProduct(product);
+            _logger.LogInformation($"Update received to for Product with ID: {Id}");
+            product.Id = Id;
+            _productService.UpdateProduct(Id, product);
             _logger.LogInformation("Product Updated");
 
             return NoContent();
         }
 
         [HttpDelete("{id}")]
-        public IActionResult DeleteProduct(Guid Id)
+        public IActionResult DeleteByID(Guid Id)
         {
-            var existingProduct = _productService.GetProductById(Id);
-            if (existingProduct == null)
+            _logger.LogInformation("Delete request received");
+
+            var deleted = _productService.DeleteById(Id);
+            if(!deleted)
             {
-                _logger.LogInformation($"Product with ID {Id} not found");
-                return NotFound();
+                _logger.LogWarning($"Product with ID {Id} not found");
+                return NotFound("Product not found");
             }
 
-            _productService.DeleteById(Id);
-            return NoContent();
+            _logger.LogInformation("Product deleted as requested ");
+                        
+            return Ok("product deleted");
         }
     }
 }

@@ -9,8 +9,8 @@ namespace basic_inventory_management_api.Inventory.Application.Interfaces
         Product GetProductById(Guid id);
         IEnumerable<Product> Search(string? name = null, ProductCategory? category = null);
         void AddProduct(Product product);
-        void UpdateProduct(Product product);
-        void DeleteById (Guid id);  
+        void UpdateProduct(Guid id, Product product);
+        bool DeleteById (Guid id);  
 
     }
 }

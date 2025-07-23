@@ -34,9 +34,9 @@ namespace basic_inventory_management_api.Inventory.Application.Services
             _products[product.Id] = product;
         }
 
-        public void DeleteById(Guid id)
+        public bool DeleteById(Guid id)
         {
-           _products.Remove(id);
+           return _products.Remove(id);
         }
 
         public IEnumerable<Product> GetAllProducts()
@@ -58,7 +58,7 @@ namespace basic_inventory_management_api.Inventory.Application.Services
                   (!category.HasValue || p.Category == category));
         }
 
-        public void UpdateProduct(Product product)
+        public void UpdateProduct(Guid id,Product product)
         {
             if(_products.ContainsKey(product.Id))
             {

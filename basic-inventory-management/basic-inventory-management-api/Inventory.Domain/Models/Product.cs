@@ -6,7 +6,7 @@ namespace basic_inventory_management_api.Inventory.Domain.Models
     {
 
 
-        public Guid Id { get; private set; } = Guid.NewGuid();
+        public Guid Id { get;  set; } = Guid.NewGuid();
         public string Name { get; set; }
 
         public string Description { get; set; }

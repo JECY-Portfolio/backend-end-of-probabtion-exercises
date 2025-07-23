@@ -48,7 +48,7 @@
   },
   {
     "ContainingType": "basic_inventory_management_api.Controllers.ProductsController",
-    "Method": "DeleteProduct",
+    "Method": "DeleteByID",
     "RelativePath": "api/Products/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
