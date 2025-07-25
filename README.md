@@ -15,6 +15,11 @@ This Project ia an ASP.Net core Web Api that allows users to:
 6. Uses DTOs(Data Transfer Object) to simplify data exchange
 7. Clean seperation of concerns using Interfaces and Services
 
+# How to Model Recurring Events
+Recurring events are events that repeat overtime, like daily tasks or weekely meetings.
+You can set how often the event reports - daily, weekly, or monthly.
+You can also choose how many times it should repeat.
+
 # Technologies used
  C#, Asp.Net Web Core API, Visual studio
 
