@@ -1,4 +1,4 @@
-# Event Scheduler and Conflic Detector
+# Event Scheduler and Conflict Detector
 
 This Project ia an ASP.Net core Web Api that allows users to:
 1. Schedule events by specifying title, description, date etc.
@@ -12,7 +12,9 @@ This Project ia an ASP.Net core Web Api that allows users to:
 3. Get all events or a single event
 4. Detect conflicts when events overlaps
 5. Delete an event
+6. Uses DTOs(Data Transfer Object) to simplify data exchange
+7. Clean seperation of concerns using Interfaces and Services
 
-#Technologies used
-Visual studio, C#
+# Technologies used
+ C#, Asp.Net Web Core API, Visual studio
 
