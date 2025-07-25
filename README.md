@@ -20,6 +20,8 @@ Recurring events are events that repeat overtime, like daily tasks or weekely me
 You can set how often the event reports - daily, weekly, or monthly.
 You can also choose how many times it should repeat.
 
+To model recurring event, add a RecurrentType(e.g, daily, monthly) and an optional RepeatCount property to the event, so the system knows how many times the event should repeat.
+
 # Technologies used
  C#, Asp.Net Web Core API, Visual studio
 
