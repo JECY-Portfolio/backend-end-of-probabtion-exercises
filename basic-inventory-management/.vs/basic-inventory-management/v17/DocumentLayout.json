@@ -103,8 +103,7 @@
               "RelativeToolTip": "basic-inventory-management-api\\Inventory.Domain\\Enums\\ProductCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:45:19.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T13:45:19.71Z"
             },
             {
               "$type": "Document",
@@ -116,8 +115,7 @@
               "RelativeToolTip": "basic-inventory-management-api\\Inventory.Application\\Services\\ProductService.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAAwDwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:40:12.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T13:40:12.751Z"
             },
             {
               "$type": "Document",
@@ -129,8 +127,7 @@
               "RelativeToolTip": "basic-inventory-management-api\\Inventory.Application\\Interfaces\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:36:38.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T13:36:38.472Z"
             },
             {
               "$type": "Document",
@@ -142,8 +139,7 @@
               "RelativeToolTip": "basic-inventory-management-api\\Inventory.Domain\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:27:00.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T13:27:00.851Z"
             }
           ]
         }
